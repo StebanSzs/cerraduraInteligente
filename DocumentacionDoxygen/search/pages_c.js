@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['de_20clave_0',['5.2 Limite de usos de clave',['../md__r_e_a_d_m_e.html#autotoc_md12',1,'']]],
+  ['de_20define_1',['12.5 Uso de &lt;span class=&quot;tt&quot;&gt;#define&lt;/span&gt;',['../md__r_e_a_d_m_e.html#autotoc_md30',1,'']]],
+  ['de_20documentacion_20doxygen_2',['15. Generacion de documentacion Doxygen',['../md__r_e_a_d_m_e.html#autotoc_md36',1,'']]],
+  ['de_20esperas_20bloqueantes_3',['12.3 Eliminacion de esperas bloqueantes',['../md__r_e_a_d_m_e.html#autotoc_md28',1,'']]],
+  ['de_20estados_4',['8. Maquina de estados',['../md__r_e_a_d_m_e.html#autotoc_md19',1,'']]],
+  ['de_20eventos_5',['14. Log de eventos',['../md__r_e_a_d_m_e.html#autotoc_md35',1,'']]],
+  ['de_20millis_6',['12.4 Uso limitado de &lt;span class=&quot;tt&quot;&gt;millis()&lt;/span&gt;',['../md__r_e_a_d_m_e.html#autotoc_md29',1,'']]],
+  ['de_20pines_7',['3. Hardware y mapa de pines',['../md__r_e_a_d_m_e.html#autotoc_md3',1,'']]],
+  ['de_20progmem_8',['12.2 Uso de &lt;span class=&quot;tt&quot;&gt;PROGMEM&lt;/span&gt;',['../md__r_e_a_d_m_e.html#autotoc_md27',1,'']]],
+  ['de_20requisitos_20cumplidos_9',['17. Resumen de requisitos cumplidos',['../md__r_e_a_d_m_e.html#autotoc_md38',1,'']]],
+  ['de_20tipos_20de_20variables_10',['12.1 Cambio de tipos de variables',['../md__r_e_a_d_m_e.html#autotoc_md26',1,'']]],
+  ['de_20un_20perfil_11',['6.2 Configurar horario de un perfil',['../md__r_e_a_d_m_e.html#autotoc_md17',1,'']]],
+  ['de_20usos_20de_20clave_12',['5.2 Limite de usos de clave',['../md__r_e_a_d_m_e.html#autotoc_md12',1,'']]],
+  ['de_20usuario_13',['de usuario',['../md__r_e_a_d_m_e.html#autotoc_md24',1,'11.2 Registro de usuario'],['../md__r_e_a_d_m_e.html#autotoc_md9',1,'4. Perfiles de usuario']]],
+  ['de_20variables_14',['12.1 Cambio de tipos de variables',['../md__r_e_a_d_m_e.html#autotoc_md26',1,'']]],
+  ['define_15',['12.5 Uso de &lt;span class=&quot;tt&quot;&gt;#define&lt;/span&gt;',['../md__r_e_a_d_m_e.html#autotoc_md30',1,'']]],
+  ['desde_20config_16',['13.2 Desde CONFIG',['../md__r_e_a_d_m_e.html#autotoc_md33',1,'']]],
+  ['desde_20gestion_17',['13.3 Desde GESTION',['../md__r_e_a_d_m_e.html#autotoc_md34',1,'']]],
+  ['desde_20inicio_18',['13.1 Desde INICIO',['../md__r_e_a_d_m_e.html#autotoc_md32',1,'']]],
+  ['direcciones_20principales_19',['11.1 Direcciones principales',['../md__r_e_a_d_m_e.html#autotoc_md23',1,'']]],
+  ['documentacion_20doxygen_20',['15. Generacion de documentacion Doxygen',['../md__r_e_a_d_m_e.html#autotoc_md36',1,'']]],
+  ['doxygen_21',['15. Generacion de documentacion Doxygen',['../md__r_e_a_d_m_e.html#autotoc_md36',1,'']]]
+];
